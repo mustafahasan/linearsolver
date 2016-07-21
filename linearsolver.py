@@ -78,3 +78,5 @@ for i in range(0, n):
 solVector = backtrack(matrix, n)
 
 print(solVector)
+aFile.close()
+bFile.close()
